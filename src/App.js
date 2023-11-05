@@ -1,24 +1,42 @@
-import logo from './logo.svg';
-import './App.css';
+// import React from 'react';
+// import MonRouter from './routes'
+// const App = () => <MonRouter />
+// export default App;
+//import './App.css';
+import About from './components/About';
+import Blog from './components/Blog';
+import Contact from './components/Contact';
+import Experience from './components/Experience';
+import Footer from './components/Footer';
+import Header from './components/Header';
+import Home from './components/Home';
+import Portfolio from './components/Portfolio';
+import Service from './components/Service';
+import Testimonial from './components/Testimonial';
+import BlogSingle from './components/BlogSingle'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <div>
+  <Header />
+  <main className="wrapper">
+    <Home />
+
+   <About/>
+   
+   <Experience/>
+   <Service/>
+    <Portfolio/>
+    <Testimonial/>
+    <Blog/>
+    <Contact/>
+    <Footer/>
+  </main>
+
+  <BlogSingle/>
+  
+</div>
+
   );
 }
 
