@@ -22,7 +22,8 @@ export default function Header(){
         <div className="header-left-fixed one-page-nav">
             {/* Brand */}
             <div className="logo">
-            <a className="navbar-brand" href="index.html#">
+            <a className="navbar-brand" href="/">
+            {/* <a className="navbar-brand" href="index.hthml#"> */}
                 {/* <img className="logo-dark" title alt='' src="assets/img/logo.svg" />
                 <img className="logo-light" title alt='' src="assets/img/logo-light.svg" /> */}
                <h1> <span>DF</span></h1>
@@ -31,49 +32,49 @@ export default function Header(){
             {/* / */}
             <ul className="main-menu">
             <li class="icon-box">
-                <a data-scroll-nav={0} href="index.html#home">
+                <a data-scroll-nav={0} href="/home">
                 Home 
                 {/* <i class="fa fa-home"></i> */}
                 </a>
             </li>
             <li>
-                <a data-scroll-nav={1} href="index.html#about">
+                <a data-scroll-nav={1} href="/about">
                 About
                 </a>
             </li>
             <li>
-                <a data-scroll-nav={2} href="index.html#services">
+                <a data-scroll-nav={2} href="/service">
                 Services
                 </a>
             </li>
             <li>
-                <a data-scroll-nav={3} href="index.html#work">
+                <a data-scroll-nav={3} href="/portfolio">
                 Portfolio
                 </a>
             </li>
             <li>
-                <a data-scroll-nav={4} href="index.html#blog">
+                <a data-scroll-nav={4} href="/blog">
                 Blog
                 </a>
             </li>
             <li>
-                <a data-scroll-nav={5} href="index.html#contact">
+                <a data-scroll-nav={5} href="/contact">
                 Contact
                 </a>
             </li>
             </ul>
             <ul className="nav social-link">
             <li>
-                <a href="index.html#"><i className="fab fa-twitter" /></a>
+                <a href="/"><i className="fab fa-twitter" /></a>
             </li>
             <li>
-                <a href="index.html#"><i className="fab fa-instagram" /></a>
+                <a href="/"><i className="fab fa-instagram" /></a>
             </li>
             <li>
-                <a href="index.html#"><i className="fab fa-facebook" /></a>
+                <a href="/"><i className="fab fa-facebook" /></a>
             </li>
             <li>
-                <a href="index.html#"><i className="fab fa-pinterest" /></a>
+                <a href="/"><i className="fab fa-pinterest" /></a>
             </li>
             </ul>
         </div>
