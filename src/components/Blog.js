@@ -30,8 +30,8 @@ export default function Blog(){
                         </a>
                     </div>
                     <div className="blog-post-info">
-                        <h6>10 July, 2022</h6>
-                        <h2><a className="px_modal" href="index.html#blog_2"> 12 unique example of portfolio websites</a></h2>
+                        <h6>10 Otobre, 2023</h6>
+                        <h2><a className="px_modal" href="index.html#blog_2"> NgModel & driven form en angular</a></h2>
                     </div>
                     </div>
                 </div>

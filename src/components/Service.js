@@ -13,7 +13,7 @@ export default function Service(){
                     <div className="accordion-item">
                         <div className="accordion-header">
                         <button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="true" aria-controls="flush-collapseOne">
-                            <span className="services-title">Web Design</span>
+                            <span className="services-title">Infographie</span>
                             <span className="services-small-desc">You can customize a template or make your own from scratch, with an immersive library at your disposal. You can customize a template</span>
                             <span className="accordion-icon" />
                         </button>

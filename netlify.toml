@@ -1,0 +1,10 @@
+# netlify.toml
+
+[build]
+  command = "npm run build"  # ou "yarn build" selon votre configuration
+  publish = "build"  # ou le répertoire où votre build est généré
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

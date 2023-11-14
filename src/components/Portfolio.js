@@ -12,15 +12,15 @@ export default function Portfolio(){
                 <div className="col-lg-6">
                     <div className="work-box">
                     <div className="work-img">
-                        <img src="assets/img/services-1.jpg" title="" alt='' />
+                        <img src="assets/img/ena.png" title="" alt='' />
                     </div>
                     <div className="work-text">
-                        <h6>UX case study</h6>
+                        <h6>Présentation des universités publique</h6>
                         <h4>
-                        Bally Website Research
+                        Modèle de Site du gouvernement  
                         </h4>
                         <div className="btn-bar">
-                        <a className="gallery-link" href="assets/img/services-1.jpg"><i className="bi-arrow-up-right" /></a>
+                        <a className="gallery-link" href="assets/img/ecomm.png"><i className="bi-arrow-up-right" /></a>
                         </div>
                     </div>
                     </div>
@@ -28,12 +28,12 @@ export default function Portfolio(){
                 <div className="col-lg-6">
                     <div className="work-box">
                     <div className="work-img">
-                        <img src="assets/img/services-2.jpg" title="" alt='' />
+                        <img src="assets/img/food.png" title="" alt='' />
                     </div>
                     <div className="work-text">
-                        <h6>UX case study</h6>
+                        <h6>Restaurant en ligne</h6>
                         <h4>
-                        Bally Website Research
+                        Site de fast food
                         </h4>
                         <div className="btn-bar">
                         <a className="gallery-link" href="assets/img/services-2.jpg"><i className="bi-arrow-up-right" /></a>
@@ -44,12 +44,12 @@ export default function Portfolio(){
                 <div className="col-lg-6">
                     <div className="work-box">
                     <div className="work-img">
-                        <img src="assets/img/services-3.jpg" title="" alt='' />
+                        <img src="assets/img/ecomm.png" title="" alt='' />
                     </div>
                     <div className="work-text">
-                        <h6>UX case study</h6>
+                        <h6>Vente des appareils mobile</h6>
                         <h4>
-                        Bally Website Research
+                        Site Ecommerce 
                         </h4>
                         <div className="btn-bar">
                         <a className="gallery-link" href="assets/img/services-3.jpg"><i className="bi-arrow-up-right" /></a>
@@ -60,12 +60,12 @@ export default function Portfolio(){
                 <div className="col-lg-6">
                     <div className="work-box">
                     <div className="work-img">
-                        <img src="assets/img/project-4.jpg" title="" alt='' />
+                        <img src="assets/img/logoOBM.png" title="" alt='' />
                     </div>
                     <div className="work-text">
-                        <h6>UX case study</h6>
+                        <h6>Logo des entrprises</h6>
                         <h4>
-                        Bally Website Research
+                        Modèle de logo conçu
                         </h4>
                         <div className="btn-bar">
                         <a className="gallery-link" href="assets/img/project-4.jpg"><i className="bi-arrow-up-right" /></a>
