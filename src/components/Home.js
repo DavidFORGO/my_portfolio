@@ -21,15 +21,21 @@ export default function Home(){
                         <p><i className="bi-envelope" /> <span>davidforgo48@gmail.com</span></p>
                     </div>
                     </div>
+                    <div className="btn-bar">
+                        <a href="file:///E:\UVL3\react\david-portfolio\src\pages/carte_visite_GL.pdf" 
+                        className="px-btn" title="Download CV as PDF" id="down">DOWLOAD CV</a>
+                        {/*<a >Download CV</a>*/}
+                    </div>
+
                 </div>
                 </div>
             </div>
             <div className="hb-me" style={{backgroundImage: 'url(assets/img/dav_home4.png)'}} />
             <div className="social-fix">
                 <div className="social-links">
-                <a href="index.html#"><i className="fab fa-dribbble" /></a>
-                <a href="index.html#"><i className="fab fa-instagram" /></a>
-                <a href="index.html#"><i className="fab fa-facebook" /></a>
+                <a href="https://telegram.org/"><i className="fab fa-telegram" /></a>
+                <a href="https://www.instagram.com/"><i className="fab fa-instagram" /></a>
+                <a href="https://web.facebook.com/"><i className="fab fa-facebook" /></a>
                 </div>
             </div>
             </section>

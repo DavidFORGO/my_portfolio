@@ -65,16 +65,16 @@ export default function Header(){
             </ul>
             <ul className="nav social-link">
             <li>
-                <a href="/"><i className="fab fa-twitter" /></a>
+                <a href="https://telegram.org/"><i className="fab fa-telegram" /></a>
             </li>
             <li>
-                <a href="/"><i className="fab fa-instagram" /></a>
+                <a href="https://www.instagram.com/"><i className="fab fa-instagram" /></a>
             </li>
             <li>
-                <a href="/"><i className="fab fa-facebook" /></a>
+                <a href="https://web.facebook.com/"><i className="fab fa-facebook" /></a>
             </li>
             <li>
-                <a href="/"><i className="fab fa-pinterest" /></a>
+                <a href="https://www.linkedin.com/in/david-forgo-1462a5271"><i className="fab fa-linkedin" /></a>
             </li>
             </ul>
         </div>
