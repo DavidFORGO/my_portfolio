@@ -27,7 +27,7 @@ export default function About(){
                 </div>
                 <div className="col-lg-7 ps-xl-5">
                     <div className="about-bio">
-                    <p>Born in 2002, AB type living in Burkina Faso. We provide on-screen design for websites and apps, as well as front-end implementation. We will continue to pursue a wide range of expressions and better code by pursuing our “likes”.</p>
+                    <p>Born in 2002, living in Burkina Faso. We provide on-screen design for websites and apps, as well as front-end implementation. We will continue to pursue a wide range of expressions and better code by pursuing our “likes”.</p>
                     </div>
                     <div className="about-contact row gx-lg-5">
                     <div className="col-sm-6">
